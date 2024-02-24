@@ -397,3 +397,4 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 /IssueProviderApplication/appsettings.local.json
+/IssueProvider.Presentation/appsettings.local.json
